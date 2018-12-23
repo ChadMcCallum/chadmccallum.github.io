@@ -2,13 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Arkham-Horror/</loc>
-        <lastmod>2017-01-08T04:04:56.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Monopoly/</loc>
         <lastmod>2017-01-17T05:33:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -72,13 +65,6 @@
     </url>
 
     <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Days-of-Ire-Budapest-1956/</loc>
-        <lastmod>2017-02-10T04:39:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Tobago/</loc>
         <lastmod>2017-02-10T04:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -101,6 +87,13 @@
 
     <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Legendary-Encounters/</loc>
+        <lastmod>2017-02-10T04:39:02.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Days-of-Ire-Budapest-1956/</loc>
         <lastmod>2017-02-10T04:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -381,13 +374,6 @@
 
     <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Argent-The-Consortium/</loc>
-        <lastmod>2017-04-12T14:14:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/El-Grande/</loc>
         <lastmod>2017-04-12T14:14:04.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -877,13 +863,6 @@
     </url>
 
     <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Earth-Reborn/</loc>
-        <lastmod>2017-11-07T13:44:12.095Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Unearth/</loc>
         <lastmod>2017-11-07T13:44:12.095Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -913,6 +892,13 @@
 
     <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Mechs-vs-Minions/</loc>
+        <lastmod>2017-11-07T13:44:12.095Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Earth-Reborn/</loc>
         <lastmod>2017-11-07T13:44:12.095Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1206,13 +1192,6 @@
     </url>
 
     <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Risk/</loc>
-        <lastmod>2018-02-27T14:19:23.903Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Colt-Express/</loc>
         <lastmod>2018-02-27T14:19:23.903Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1241,6 +1220,13 @@
     </url>
 
     <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Leaving-Earth/</loc>
+        <lastmod>2018-02-27T14:19:23.903Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/RoboRally/</loc>
         <lastmod>2018-02-27T14:19:23.903Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1256,13 +1242,6 @@
 
     <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Letters-from-Whitechapel/</loc>
-        <lastmod>2018-02-27T14:19:23.903Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Leaving-Earth/</loc>
         <lastmod>2018-02-27T14:19:23.903Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1346,13 +1325,6 @@
     </url>
 
     <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Kingdom-Death-Monster/</loc>
-        <lastmod>2018-03-14T15:51:19.646Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Mansions-of-Madness/</loc>
         <lastmod>2018-03-14T15:51:19.646Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1374,14 +1346,14 @@
     </url>
 
     <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Battlestar-Galactica/</loc>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/War-of-the-Ring/</loc>
         <lastmod>2018-03-14T15:51:19.646Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/War-of-the-Ring/</loc>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Battlestar-Galactica/</loc>
         <lastmod>2018-03-14T15:51:19.646Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1410,13 +1382,6 @@
 
     <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/The-Resistance-Avalon/</loc>
-        <lastmod>2018-03-14T15:51:19.646Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Pandemic-Legacy-Season-1/</loc>
         <lastmod>2018-03-14T15:51:19.646Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1458,6 +1423,13 @@
     </url>
 
     <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Kingdom-Death-Monster/</loc>
+        <lastmod>2018-03-14T15:51:19.646Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Gotham-City-Chronicles/</loc>
         <lastmod>2018-03-14T15:51:19.646Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1480,13 +1452,6 @@
 
     <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Quarriors/</loc>
-        <lastmod>2018-04-12T14:21:23.541Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Sushi-Go/</loc>
         <lastmod>2018-04-12T14:21:23.541Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1528,13 +1493,6 @@
     </url>
 
     <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Decrypto/</loc>
-        <lastmod>2018-05-16T22:23:33.201Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Gaslands/</loc>
         <lastmod>2018-05-16T22:23:33.201Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1544,13 +1502,6 @@
     <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Burgle-Bros/</loc>
         <lastmod>2018-05-16T22:23:33.201Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Space-Alert/</loc>
-        <lastmod>2018-05-16T22:25:36.614Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1577,6 +1528,13 @@
     </url>
 
     <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Castaways/</loc>
+        <lastmod>2018-05-16T22:25:36.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Four-Against-Darkness/</loc>
         <lastmod>2018-05-16T22:25:36.614Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1585,13 +1543,6 @@
 
     <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Kitchen-Rush/</loc>
-        <lastmod>2018-05-16T22:25:36.614Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://of-dice-and-men.herokuapp.com/tags/Castaways/</loc>
         <lastmod>2018-05-16T22:25:36.614Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -2062,6 +2013,118 @@
     <url>
         <loc>http://of-dice-and-men.herokuapp.com/tags/Rescue-Polar-Bears-Data-Temperature/</loc>
         <lastmod>2018-10-22T15:50:51.490Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Decrypto/</loc>
+        <lastmod>2018-12-23T17:01:21.151Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Space-Alert/</loc>
+        <lastmod>2018-12-23T17:01:21.151Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Secrets/</loc>
+        <lastmod>2018-12-23T17:01:21.151Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Pandemic-Legacy-Season-1/</loc>
+        <lastmod>2018-12-23T17:11:04.740Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/A-Fake-Artist-Goes-To-New-York/</loc>
+        <lastmod>2018-12-23T17:11:04.740Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Ultimate-Werewolf-Legacy/</loc>
+        <lastmod>2018-12-23T17:11:04.740Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Neanderthal/</loc>
+        <lastmod>2018-12-23T17:11:04.740Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Sushi-Go/</loc>
+        <lastmod>2018-12-23T17:11:04.747Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Risk/</loc>
+        <lastmod>2018-12-23T17:11:04.747Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Head-s-Up/</loc>
+        <lastmod>2018-12-23T17:11:04.747Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Bunny-Kingdom/</loc>
+        <lastmod>2018-12-23T17:11:04.747Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Discover-Lands-Unknown/</loc>
+        <lastmod>2018-12-23T17:11:04.747Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Arkham-Horror/</loc>
+        <lastmod>2018-12-23T17:11:04.753Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Holding-On-The-Troubled-Live-of-Billy-Kerr/</loc>
+        <lastmod>2018-12-23T17:11:04.753Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/El-Grande/</loc>
+        <lastmod>2018-12-23T17:11:04.753Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://of-dice-and-men.herokuapp.com/tags/Chronicles-of-Crime/</loc>
+        <lastmod>2018-12-23T17:11:04.753Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
